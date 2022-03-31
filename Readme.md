@@ -10,7 +10,7 @@ This .csv files are processed by RedditVisualizer. The data is looked at in a va
 
 ### Installation
 
-It is highly recommended that this project is run within Jupyter Notebook. The quick installation process within Conda/Notebook is below:
+This project was written in Python 3.9. It is highly recommended that this project is run within Jupyter Notebook. The quick installation process within Conda/Notebook is below:
 
     1) Download the repository from https://github.com/JSLifeform/RedditReader
 
@@ -26,6 +26,8 @@ If you are unable to install the dependencies via the above method, the required
 
     matplotlib
     praw
+    numpy
+    pandas
 
 ### Getting Started
 
